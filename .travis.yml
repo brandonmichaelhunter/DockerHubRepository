@@ -13,5 +13,3 @@ install:
 - docker ps -a
 - docker run brandonmichaelhunter/dockerhubrepository
 
-script:
- -docker ps
